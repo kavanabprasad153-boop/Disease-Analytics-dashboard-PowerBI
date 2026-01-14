@@ -24,4 +24,4 @@ Combo Charts: PDI vs Yield trend
 
 Scatter & Quadrant Analysis: Disease pressure vs yield resilience
 
-Matrix & Slicers: Accession-wise disease and yield comparison
+Matrix & Slicers: Location-wise disease and yield comparison
